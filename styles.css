@@ -1,0 +1,20 @@
+body{
+    background-color: #111827;
+}
+
+.logo-pic{
+    width: 13%;
+    height: 13%;
+}
+
+.title-wrapper{
+    color: #818CF8 !important;
+}
+
+
+@media screen and (max-width: 650px) {
+    .logo-pic{
+        width: 40%;
+        height: 40%;
+    }
+}
